@@ -57,7 +57,7 @@
 <hr>
 
 ## :mailbox: Get in touch: 💬
-[<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/mmlp911/)
+[<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/mukundsh/)
 [<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-important-mail.svg" width="30px">](mailto:mukund.sharmalp@gmail.com)
 
 <hr>
