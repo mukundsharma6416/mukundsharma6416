@@ -42,9 +42,9 @@
 <hr>
 
 ### About 📌
-### ✔  **Domain :** Devops Engineer || Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, AWS, Docker
-### ✔  **Learning :** Python
+### ✔  **Domain :** Devops Engineer || Site Reliability Engineer 💻
+### ✔  **Skills :** Linux, AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, CloudFormation, Rundeck, Bash, Python, Go
+### ✔  **Learning :** Something New
 
 <hr>
 
@@ -57,7 +57,7 @@
 <hr>
 
 ## :mailbox: Get in touch: 💬
-[<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/mukundsh/)
+[<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/mukundsh2856/)
 [<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/c4d0af7de90d7e7a695eac51b4278b699a3241ab/icons8-important-mail.svg" width="30px">](mailto:mukund.sharmalp@gmail.com)
 
 <hr>
