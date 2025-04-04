@@ -47,9 +47,8 @@
 <hr>
 
 ### About 📌
-### ✔  **Domain :** Devops Engineer || Site Reliability Engineer 💻
-### ✔  **Skills :** Linux, AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, CloudFormation, Rundeck, Bash, Python, Go
-### ✔  **Learning :** Something New
+### ✔  **Domain :** Devops Engineer || Site Reliability Engineer || Cloud Engineer || Platform Engineer || Systems Administrator 💻
+### ✔  **Skills :** Linux, AWS, GCP, Azure, Kubernetes, Docker, Jenkins, GitHub Actions, Github, Gitlab, Bitbucket,Ansible, Terraform, CloudFormation, Rundeck, Bash, Python, Go
 
 <hr>
 
