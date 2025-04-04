@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/main/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/main/Hi.gif" width="20px"> 👋 Hi, I'm Mukund — a DevOps & Site Reliability Engineer passionate about cloud infrastructure, automation, and reliability.
+    Hi,<img src="https://raw.githubusercontent.com/mukundsharma6416/mukundsharma6416/main/Hi.gif" width="20px"> Hi, I'm Mukund — a DevOps & Site Reliability Engineer passionate about cloud infrastructure, automation, and reliability.
 🌐 I work with tools like Python, Bash, Linux, Kubernetes, Docker, Terraform, Ansible, and AWS CloudFormation to build, manage, and scale modern infrastructure. :octocat: from :india: Living in :ireland:
   </samp>
 </p>
